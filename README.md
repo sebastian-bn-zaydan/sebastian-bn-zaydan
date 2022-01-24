@@ -1,4 +1,5 @@
-### Hi there 👋
+### Sebastian Bn Zaydan سيباستيان بن زايدان (sɪˈbæstɪən bɛn ˈzidæn)
+دراسات إنسانيات-رقمية حول تأثير الفكر الشرقي والاستعماري على المجتمعات المهمشة
 
 <!--
 **sebastian-bn-zaydan/sebastian-bn-zaydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
