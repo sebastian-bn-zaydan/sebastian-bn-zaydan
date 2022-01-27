@@ -8,3 +8,4 @@
 | [San Antonio Review](https://www.sareview.org/)  | International literary, arts and ideas journal | |
 | [Side-Car](https://newleftreview.org/sidecar) | New Left Review Blog | |
 | [The Baffler](https://thebaffler.com/) | Left-wing political criticism, cultural analysis, short stories, poems and art | |
+| [Cabinet Magazine](https://www.cabinetmagazine.org/) | Quarterly non-profit cultural magazine based in Brookly | |
