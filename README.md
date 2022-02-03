@@ -1,5 +1,5 @@
 ### Sebastian Bn Zaydan, سيباستيان بن زايدان (sɪˈbæstɪən bɛn ˈzidæn)
-دراسات [إنسانية-رقمية](https://en.wikipedia.org/wiki/Digital_humanities) حول تأثير الفكر الشرقي والاستعماري على مجتمعات المهمشة وقوائم شاملة من الكتابات والقراءات الشيقة 
+دراسات [إنسانية-رقمية](https://en.wikipedia.org/wiki/Digital_humanities) حول تأثير الفكر الشرقي والاستعماري على مجتمعات مهمشة. قوائم شاملة من الكتابات والقراءات الشيقة! 
 
 <!--
 **sebastian-bn-zaydan/sebastian-bn-zaydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
