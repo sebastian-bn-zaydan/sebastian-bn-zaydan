@@ -1,7 +1,7 @@
 ### Sebastian Bn Zaydan, سيباستيان بن زايدان (sɪˈbæstɪən bɛn ˈzidæn)
 دراسات [إنسانية-رقمية](https://en.wikipedia.org/wiki/Digital_humanities) حول تأثير الفكر الشرقي والاستعماري على مجتمعات مهمشة. قوائم شاملة من الكتابات والقراءات الشيقة! 
 
-| :books: [Journals & Zines](https://github.com/sebastian-bn-zaydan/sebastian-bn-zaydan/blob/main/eclectic-resources.md) | :pencil2: Writings | :loudspeaker: Essential Reads | 
+| :pencil2: Writings | :loudspeaker: Essential Reads | :books: [Journals & Zines](https://github.com/sebastian-bn-zaydan/sebastian-bn-zaydan/blob/main/eclectic-resources.md) |
 <!--
 **sebastian-bn-zaydan/sebastian-bn-zaydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
